@@ -1,0 +1,15 @@
+
+
+// 1st Code Run Auto
+tsc ./index.ts --watch
+
+// 2nd Created a new tsconfig.json
+Command -:
+tsc --init 
+
+// 3rd Code Run All Auto Code
+tsc -w
+
+// 4th 
+
+// 5th 
